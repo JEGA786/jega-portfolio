@@ -1,0 +1,108 @@
+/* h5 {
+  color: aqua;
+  font-family: Hack, sans-serif;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #000, #fff, #000);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 80%;
+  
+  background-repeat: no-repeat;
+  animation: text 5s linear infinite;
+  position: relative;
+}
+@keyframes text {
+  0% {
+    background-position-x: -500%;
+  }
+  100% {
+    background-position-x: -500%;
+  }
+} */
+.roal {
+  font-weight: 700;
+  font-family: Hack, sans-serif;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #000, #fff, #000);
+  letter-spacing: 3px;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: shine 6s linear infinite;
+  position: relative;
+}
+.nametext{
+  color: #068F94;
+  transition: all 0.5s ease-in-out;
+}
+
+@keyframes shine {
+  0% {
+    background-position-x: -500%;
+  }
+  100% {
+    background-position-x: 500%;
+  }
+}
+.homeimg-text{
+  padding-top: 60px;
+}
+
+.homealltext > .linkbtnone .btnone{
+  background: #02bec4;
+  width: 7rem;
+  transition: all o.5s ease-in-out;
+}
+.homealltext .linkbtntwo .btntwo{
+ border: solid 1px #02BEC4 ;
+  width: 7rem;
+  transition: all o.5s ease-in-out;
+}
+
+.social-media > div{
+  background: #02bec4;
+  width: 40px !important;
+height: 40px;
+border-radius: 100%;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+transition: all 0.5s ease-in-out;
+}
+
+.social-media > div:hover{
+  /* background: #000; */
+  transform: scale(1.08);
+  box-shadow: 0 0 15px #03F2FA;
+}
+.social-media a{
+  color: #050505;
+  transition: all 0.5s ease-in-out;
+
+}
+
+.social-media div:hover a{
+   color: #03F2FA;
+
+}
+.homealltext  .linkbtnone .btnone:hover {
+  box-shadow: 0 0 15px #03F2FA;
+  background:  rgba(3,242,250,1);
+  border: solid 1px #03F2FA;
+}
+.homealltext .linkbtntwo .btntwo:hover {
+  box-shadow: 0 0 15px #03F2FA;
+  background:  rgba(3,242,250,1);
+}
+.nametext:hover{
+  color: #03F2FA;
+  cursor: pointer;
+}
+ .imagediv{
+  height: 400px;
+}
+
+/* ---------------------box css----------------------- */

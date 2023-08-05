@@ -1,0 +1,21 @@
+.main-footer{
+    background:#90e9ec;
+    height: 25rem;
+}
+
+ul div li{
+    list-style-type: none;
+    padding : 8px 0 8px 0;  
+    transition: all 0.5s ease-in-out;  
+    
+}
+ul div li:hover{
+   color: #02BEC4; 
+   transform: scale(1.07);
+}
+.footer-img{
+
+    height: 70px;
+    width: 70px;
+}
+

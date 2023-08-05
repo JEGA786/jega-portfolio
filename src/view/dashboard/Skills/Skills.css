@@ -1,0 +1,131 @@
+.uiux div .rounded , .program div .rounded{
+  background: #02bec4;
+}
+.skills , span{
+  font-family: 'Teko', sans-serif !important;
+  font-weight: 600;
+ 
+  
+}
+p{
+letter-spacing: 0.4px;
+line-height: 30px;
+}
+.rounded{
+  height: 15px !important;
+}
+.progress {
+  height: 24px !important;
+  padding: 2px 2px;
+  /* From https://css.glass */
+background: rgba( 13, 247, 247, 0.4 ) !important;
+/* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 )  ; */
+backdrop-filter: blur( 20px )  !important;
+-webkit-backdrop-filter: blur( 20px )  !important;
+border-radius: 10px  !important;
+border: 1px solid rgba( 255, 255, 255, 0.18 )  !important;
+}
+.ninety {
+  animation: ninety 5s normal forwards;
+ 
+}
+ .seventyfive{
+  animation: seventyfive 5s normal forwards;
+ 
+}
+.eighty{
+  animation: eighty 5s normal forwards;
+ 
+}
+.sixty{
+  animation: sixty 5s normal forwards;
+ 
+}
+.sixtyfive{
+  animation: sixtyfive 5s normal forwards;
+ 
+}
+@keyframes ninety {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@keyframes seventyfive {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 75%;
+  }
+}
+@keyframes eighty {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@keyframes sixty {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 60%;
+  }
+}
+@keyframes sixtyfive {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 65%;
+  }
+}
+
+
+
+/* ------------------------------infinite-scroll--------------------- */
+.slide > img{
+  /* background: #6ddee4; */
+  width: 200px;
+  height: 100px;
+  overflow: hidden;
+  /* border: solid 1px black; */
+  margin:10px;
+  border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+}
+.slider{
+  overflow: hidden;
+
+  /* position: relative; */
+  /* width: auto; */
+}
+
+
+.slider .slide-track {
+  /* overflow: hidden; */
+  
+  animation: jega 25s linear infinite;
+  width: calc(240px * 20);
+}
+.slide:hover img{
+  /* background: #10b3bb;s */
+  
+  transform: scale(1.08);
+  filter: drop-shadow(#6ddee4 0 0 0.70rem)
+}
+
+
+@keyframes jega{
+  0%{
+    transform: translateX(0);
+  }
+  100%{
+    transform: translateX(calc(-250px * 6));
+  }
+}
