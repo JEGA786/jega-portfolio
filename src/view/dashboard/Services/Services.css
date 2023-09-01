@@ -36,12 +36,13 @@ transition: all 0.5s ease-in-out;
     padding-bottom: 0;
     }
     .cardtext h4{
+
       transition: all 0.5s ease-out !important;
-      font-weight: 700;
+      font-weight: 600;
     }
     .card:hover .cardtext h4{
       transition: all 0.5s;
-  margin-left: 35%;
+ transform: translateX(20%);
   color: rgb(5, 81, 81);
       }
 
@@ -64,17 +65,28 @@ transition: all 0.5s ease-in-out;
         box-shadow: none;
         cursor: pointer;
         }
+        .child-service > .card:hover .sub-service-text{
+          color: #0d7275;
+          }
+
+
 a .card-button:hover{
   box-shadow: 0 0 15px #03F2FA;
   background:  rgba(3,242,250,1);
   border: solid 1px #03F2FA;
 }
-       
+ .sub-service-text{
+  font-size: 15px;
+ }      
 
 @media only screen and (max-width: 500px) {
   
   .service-img>div{
     height: 250px;
+  
+  }
+  .sub-serv-img >img{
+    height: 120px;
   
   }
 } 
@@ -89,6 +101,9 @@ a .card-button:hover{
     width: 150px !important;
     height: 150px !important;
   }
+  .sub-service-text{
+    font-size: 11px;
+   } 
 } 
 
 

@@ -11,7 +11,7 @@ import { Footer} from "../Footer/Footer";
 export function Dashboard() {
   return (
 <div className=" all m-0 p-0 col-12 ">
-    <nav className="navbar navbar-expand-lg col-12 p-0 m-0">
+    <nav  className="navbar navbar-expand-lg col-12 p-0 m-0">
       <div className="container-fluid  px-0 ">
         <a className="head-logo" href="/">
         

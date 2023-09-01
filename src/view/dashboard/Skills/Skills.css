@@ -45,6 +45,12 @@ border: 1px solid rgba( 255, 255, 255, 0.18 )  !important;
   animation: sixtyfive 5s normal forwards;
  
 }
+.thirty{
+  animation: thirty 5s normal forwards;
+}
+.twenty{
+  animation: twenty 5s normal forwards;
+}
 @keyframes ninety {
   0% {
     width: 0;
@@ -85,7 +91,23 @@ border: 1px solid rgba( 255, 255, 255, 0.18 )  !important;
     width: 65%;
   }
 }
+@keyframes thirty {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 35%;
+  }
+}
 
+@keyframes twenty {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 25%;
+  }
+}
 
 
 /* ------------------------------infinite-scroll--------------------- */

@@ -1,6 +1,7 @@
 
 .all .navbar{
-  background: #90e9ec;
+  background-image: linear-gradient(-225deg, #e8f8f5 0%,  #54dfe4 100%);
+
 }
 
 /* @media (min-width: 992px) {
