@@ -5,7 +5,7 @@ export function ContactUs() {
       <div className="heading text-center ">
         <p data-aos="fade-right"
      data-aos-duration="2500"  className=" p-0 m-0 ">Get In Tuch</p>
-        <h2 data-aos="fade-left"
+        <h2 data-aos="zoom-in-up"
      data-aos-duration="2500" className="">Contact Me</h2>
       </div>
    

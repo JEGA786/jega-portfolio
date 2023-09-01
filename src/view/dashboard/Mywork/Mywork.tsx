@@ -5,12 +5,12 @@ export function Mywork(){
       <div className="myworkall ">
 <div className="myworktop  col-12    d-flex justify-content-center flex-column align-items-center">
 <div className="slaider-container  ">
-<p data-aos="fade-left"
+<p data-aos="zoom-in-up"
      data-aos-duration="2500" className=" p-0 m-0 ">My recent work</p>
         <h2 data-aos="fade-right"
      data-aos-duration="2500" className="">my portfolio</h2>
 
-        <div data-aos="fade-left"
+        <div data-aos="zoom-in-up"
      data-aos-duration="2500" className="liveproject text-info "><h4>Live project</h4></div>
 <div   className="slaider-container p-0 m-0 mt-0">
   <input type="radio" name="slider" id="item-1" defaultChecked />
@@ -28,7 +28,7 @@ export function Mywork(){
       <img src={require("../../../asset/paype web 3.png")} alt="song" />
     </label>
   </div>
-  <div data-aos="fade-left"
+  <div data-aos="zoom-in-up"
      data-aos-duration="2500" className="player ">
     <div className="upper-part">
       <div className="play-icon">

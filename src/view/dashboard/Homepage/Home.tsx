@@ -24,11 +24,11 @@ export function Homepage() {
   <div className="fb fs-5  mx-1 d-flex justify-content-center align-items-center "> <a href="https://www.facebook.com/profile.php?id=100024132496468"><i className="fa fa-facebook"></i></a></div>
   
 </div>
-                <a href="" data-aos="fade-right" data-aos-duration="2000" className="linkbtnone"><button type="button" className="btn btnone ">
+                <a href=""  className="linkbtnone"><button data-aos="fade-up" data-aos-duration="2500" type="button" className="btn btnone ">
                   Downlode
                 </button></a>
 
-                <a href="#ContactUs" data-aos="fade-left" data-aos-duration="2000" className="linkbtntwo"><button type="button" className="btn btntwo  text-dark mx-3">
+                <a  href="#ContactUs"  className="linkbtntwo"><button data-aos="fade-up" data-aos-duration="2000" type="button" className="btn btntwo  text-dark mx-3">
                 Let's Talk
                 </button></a>
                

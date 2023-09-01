@@ -12,7 +12,7 @@ export function Footer(){
 </div>
 
 </div>
-<h3 data-aos="fade-left"
+<h3 data-aos="zoom-in-up"
      data-aos-duration="2500" className=" text-center">Thank you!</h3>
 
 <div data-aos="fade-right"
@@ -36,8 +36,7 @@ export function Footer(){
     </ul>
 </div>
 
-<p data-aos="fade-up"
-     data-aos-duration="2500" className="text-center fw-light  m-0">
+<p className="text-center fw-light  m-0">
 Copyright ©2023 All rights reserved. ❣
       </p>
         </div>

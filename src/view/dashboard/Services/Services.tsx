@@ -13,7 +13,7 @@ export function Services() {
       <div className="heading text-center">
         <p data-aos="fade-right"
      data-aos-duration="2500" className=" p-0 m-0 ">Get To Know</p>
-        <h2 data-aos="fade-left"
+        <h2 data-aos="fade-up"
      data-aos-duration="2500" className="">Services</h2>
       </div>
 
@@ -22,7 +22,7 @@ export function Services() {
       <div className="mainservice col-12 d-flex jusity-content-end px-0 mt-5">
         <div  className="row p-0 m-0 flex-wrap col-12 d-flex  justify-content-lg-around  justify-content-center">
           <div className="col-lg-4  container col-md-8 col-sm-7 col-12 mt-lg-0 mt-md-5 mt-sm-5 mt-5 d-flex  justify-content-center">
-            <div data-aos="fade-right"
+            <div data-aos="zoom-in-up"
      data-aos-duration="2500" className="card  col-12 ">
               <div className="col-12  card-img d-flex  justify-content-start align-items-center">
               {/* <Player
@@ -49,7 +49,7 @@ export function Services() {
           </div>
 
           <div className="col-lg-4  container col-md-12 col-sm-7 col-12 mt-lg-0 mt-md-5  mt-sm-5 mt-5 d-flex  justify-content-center">
-            <div data-aos="fade-down-left"
+            <div data-aos="zoom-in-up"
      data-aos-duration="2500"  className="card  col-12 ">
               <div className="col-12 card-img d-flex  justify-content-start align-items-center ">
               
@@ -75,7 +75,7 @@ export function Services() {
           </div>
 
           <div className="col-lg-4  container col-md-12 col-sm-7 col-12 mt-lg-0 mt-md-5  mt-sm-5 mt-5 d-flex  justify-content-center">
-            <div data-aos="fade-left"
+            <div data-aos="zoom-in-up"
      data-aos-duration="2500" className="card  col-12 ">
               <div className="col-12  card-img d-flex  justify-content-start align-items-center">
               {/* <Player src={require("../../../asset/hosting.json")}
@@ -112,7 +112,7 @@ speed={1}/> */}
                   <h4 className="sub-service-text">Wireframe&Prototype </h4>
                 </div>
               </div>
-              <div data-aos="fade-left"
+              <div data-aos="fade-up"
      data-aos-duration="2500" className="child-service  col-lg-3 col-md-5 col-sm-5 col-6  mt-lg-0 mt-md-0 mt-sm-0  d-flex justify-content-center">
                 <div className="col-12 card  d-flex flex-column justify-content-between align-items-center">
                   <div className="sub-serv-img">
@@ -138,7 +138,7 @@ speed={1}/> */}
                   <h4 className="sub-service-text">Icon Creation</h4>
                 </div>
               </div>
-              <div data-aos="fade-left"
+              <div data-aos="fade-up"
      data-aos-duration="2500" className="child-service  col-lg-3 col-md-5 col-sm-5 col-6  mt-lg-0 mt-md-3 mt-sm-3 mt-3 d-flex justify-content-center">
                 <div className="col-12 card  d-flex flex-column justify-content-between align-items-center">
                   <div className="sub-serv-img ">
@@ -166,7 +166,7 @@ speed={1}/> */}
                   </div>
                 </div>
                 <div className="child-service  col-lg-3 col-md-5 col-sm-5 col-6  mt-lg-3 mt-md-3 mt-sm-3 mt-3 d-flex justify-content-center">
-                  <div data-aos="fade-left"
+                  <div data-aos="fade-up"
      data-aos-duration="2500" className="col-12 card  d-flex flex-column justify-content-between align-items-center">
                     <div className="sub-serv-img ">
                       <img
