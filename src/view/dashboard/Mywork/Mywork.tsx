@@ -16,6 +16,7 @@ export function Mywork(){
   <input type="radio" name="slider" id="item-1" defaultChecked />
   <input type="radio" name="slider" id="item-2" />
   <input type="radio" name="slider" id="item-3" />
+
   <div data-aos="fade-up"
      data-aos-anchor-placement="center-bottom"  data-aos-duration="2500" className="cards">
     <label className="slaider-card    " htmlFor="item-1" id="song-1">
@@ -73,7 +74,7 @@ export function Mywork(){
 
 
 
-<div data-aos="fade-right"
+<div data-aos="fade-right" id="design"
      data-aos-duration="2500" className=" liveproject text-dark text-center mt-4"><h4>Design Service</h4></div>
 <div className="designs container  col-12">
 <div data-aos="fade-up"

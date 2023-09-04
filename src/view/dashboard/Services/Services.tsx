@@ -1,13 +1,8 @@
-
 import "../Services/Services.css";
 
 // import { Player } from '@lottiefiles/react-lottie-player';
 
-
-
 export function Services() {
- 
-
   return (
     <div className="servicepage ">
       <div className="heading text-center">

@@ -20,20 +20,21 @@ export function AboutMe() {
      
       <div className="about-boxtext col-lg-6 col-md-7 col-12 ">
         <div data-aos="fade-zoom-in-up" data-aos-duration="2500" className="two-box  d-flex justify-content-lg-start justify-content-md-start justify-content-center">
-          <div data-aos="zoom-in-up" data-aos-duration="2500" className="Expriance d-flex flex-column justify-content-center text-center">
+         <a className=" text-decoration-none text-dark" href="#"> <div data-aos="zoom-in-up" data-aos-duration="2500" className="Expriance d-flex flex-column justify-content-center text-center">
           <i className="fa-sharp fa-solid fa-medal fa-fade fs-3 p-2"></i>
           <h5>Expriance</h5>
               <p className="  fw-light">
                    1+ Year Of Expriencing
                 </p>
 
-          </div>
-          <div data-aos="zoom-in-up" data-aos-duration="2500" className="Expriance mx-lg-4 mx-0 d-flex flex-column justify-content-center text-center">
+          </div></a>
+          <a className=" text-decoration-none text-dark" href="#Mywork">
+            <div data-aos="zoom-in-up" data-aos-duration="2500" className="Expriance mx-lg-4 mx-0 d-flex flex-column justify-content-center text-center">
           <i className="fa-sharp fa-solid fa-list-check fa-fade  fs-3 p-2"></i>
                  <h5>Project</h5>
                  <p className=" fw-light">5+ completed</p>
 
-          </div>
+          </div></a>
 
           <div className="text d-flex justify-content-start">
           <p data-aos="zoom-in-right" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
