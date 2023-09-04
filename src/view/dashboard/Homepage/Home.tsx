@@ -1,6 +1,6 @@
 import React from "react";
 import "../Homepage/Home.css";
-import"../Contactus/ContactUs"
+import"../Contactus/ContactUs";
 
 export function Homepage() {
   return (
@@ -24,8 +24,8 @@ export function Homepage() {
   <div className="fb fs-5  mx-1 d-flex justify-content-center align-items-center "> <a href="https://www.facebook.com/profile.php?id=100024132496468"><i className="fa fa-facebook"></i></a></div>
   
 </div>
-                <a href=""  className="linkbtnone"><button data-aos="fade-up" data-aos-duration="2500" type="button" className="btn btnone ">
-                  Downlode
+                <a href="../../../asset/JEGADEESAN M Resume.pdf" download={'JEGA resume'}  className="linkbtnone"><button data-aos="fade-up" data-aos-duration="2500" type="button" className="btn btnone ">
+                  Resume <i className="fa fa-download "></i>
                 </button></a>
 
                 <a  href="#ContactUs"  className="linkbtntwo"><button data-aos="fade-up" data-aos-duration="2000" type="button" className="btn btntwo  text-dark mx-3">
