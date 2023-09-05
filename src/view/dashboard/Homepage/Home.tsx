@@ -24,7 +24,7 @@ export function Homepage() {
   <div className="fb fs-5  mx-1 d-flex justify-content-center align-items-center "> <a href="https://www.facebook.com/profile.php?id=100024132496468"><i className="fa fa-facebook"></i></a></div>
   
 </div>
-                <a href={require("../../../asset/JEGADEESAN M Resum.pdf")} download  className="linkbtnone"><button data-aos="fade-up" data-aos-duration="2500" type="button" className="btn btnone px-1">
+                <a href={require("../../../asset/JEGADEESAN M Resume.pdf")} download  className="linkbtnone"><button data-aos="fade-up" data-aos-duration="2500" type="button" className="btn btnone px-1">
                   Downlode cv 
                 </button></a>
 
