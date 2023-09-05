@@ -1,6 +1,6 @@
 import "../Services/Services.css";
 
-// import { Player } from '@lottiefiles/react-lottie-player';
+import { Player } from '@lottiefiles/react-lottie-player';
 
 export function Services() {
   return (
@@ -19,14 +19,15 @@ export function Services() {
           <div className="col-lg-4  container col-md-8 col-sm-7 col-12 mt-lg-0 mt-md-5 mt-sm-5 mt-5 d-flex  justify-content-center">
             <div data-aos="zoom-in-up"
      data-aos-duration="2500" className="card  col-12 ">
-              <div className="col-12  card-img d-flex  justify-content-start align-items-center">
-              {/* <Player
+              <div  data-aos="fade-down-right"
+     data-aos-duration="2500" className="col-12  card-img d-flex  justify-content-start align-items-center">
+              <Player
         src={require('../../../asset/uiux.json')}
         className="player"
         loop
         autoplay
-        speed={0.5}
-      /> */}
+        speed={3}
+      />
 
 
               </div>
@@ -46,16 +47,17 @@ export function Services() {
           <div className="col-lg-4  container col-md-12 col-sm-7 col-12 mt-lg-0 mt-md-5  mt-sm-5 mt-5 d-flex  justify-content-center">
             <div data-aos="zoom-in-up"
      data-aos-duration="2500"  className="card  col-12 ">
-              <div className="col-12 card-img d-flex  justify-content-start align-items-center ">
+              <div  data-aos="fade-up"
+     data-aos-duration="2500" className="col-12 card-img d-flex  justify-content-start align-items-center ">
               
-              {/* <Player
+              <Player
         src={require('../../../asset/development.json')}
      
         className="player "
         loop
         autoplay
         speed={3}
-      /> */}
+      />
 
               </div>
               <div className="cardtext py-3 ">
@@ -72,12 +74,13 @@ export function Services() {
           <div className="col-lg-4  container col-md-12 col-sm-7 col-12 mt-lg-0 mt-md-5  mt-sm-5 mt-5 d-flex  justify-content-center">
             <div data-aos="zoom-in-up"
      data-aos-duration="2500" className="card  col-12 ">
-              <div className="col-12  card-img d-flex  justify-content-start align-items-center">
-              {/* <Player src={require("../../../asset/hosting.json")}
+              <div data-aos="fade-down-right"
+     data-aos-duration="2500" className="col-12  card-img d-flex  justify-content-start align-items-center">
+              <Player  src={require("../../../asset/hosting.json")}
 className="player"
 loop
 autoplay
-speed={1}/> */}
+speed={0.5}/>
               </div>
               <div className="cardtext py-3 ">
             <h4>Test & Hosting</h4>
