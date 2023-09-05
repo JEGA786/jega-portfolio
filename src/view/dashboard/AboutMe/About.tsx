@@ -32,7 +32,7 @@ export function AboutMe() {
             <div data-aos="zoom-in-up" data-aos-duration="2500" className="Expriance mx-lg-4 mx-0 d-flex flex-column justify-content-center text-center">
           <i className="fa-sharp fa-solid fa-list-check fa-fade  fs-3 p-2"></i>
                  <h5>Project</h5>
-                 <p className=" fw-light">5+ completed</p>
+                 <p className=" fw-light">1 completed 5+ websites</p>
 
           </div></a>
 
