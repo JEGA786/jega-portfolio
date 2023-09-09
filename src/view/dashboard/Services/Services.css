@@ -1,7 +1,10 @@
 
 
 .servicepage{
-  min-height: 100vh;
+  /* min-height: 100vh; */
+  background: #dcfdfd;
+  padding-bottom: 50px;
+  
 }
 .service-box >div>div{
   height: 300px;
