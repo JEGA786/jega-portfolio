@@ -48,7 +48,7 @@ export function AboutMe() {
           Let's craft something exceptional together </p>
               
           <p data-aos="zoom-in-up" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
-      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true" />My annual <span>CTC is 3,00,000</span> . I'm excited about my compensation package
+      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true" />My annual <span>CTC is 240,000</span> . I'm excited about my compensation package
       </p>
           </div>
           <a data-aos="zoom-in-up" data-aos-duration="3000" href="#Mywork"><div className="btn about-btn">Let's See</div></a>
