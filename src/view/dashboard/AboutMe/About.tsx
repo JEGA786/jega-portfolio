@@ -39,16 +39,16 @@ export function AboutMe() {
           <div className="text   ">
           
           <p data-aos="zoom-in-up" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
-      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true"></i>I'm <span>Jegadeesan</span>, an <span> (MCA) Master of Computer Applications  </span>graduate with a passion for all things tech
+      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true"></i>I'm <span>Jegadeesan</span>, an <span> (MCA) Master of Computer Applications  </span>graduate with a passion for all things tech.
       </p>
           <p data-aos="zoom-in-up" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
       <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true"></i>
           
           i'm passionate <span>UI/UX designer & web developer</span>, creating user-centric interfaces with a blend of creativity and functionality. 
-          Let's craft something exceptional together </p>
+          Let's craft something exceptional together. </p>
               
           <p data-aos="zoom-in-up" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
-      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true" />My annual <span>CTC is 240,000</span> . I'm excited about my compensation package
+      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true" />My annual <span>CTC is 240,000</span> . I'm excited about my compensation package.
       </p>
           </div>
           <a data-aos="zoom-in-up" data-aos-duration="3000" href="#Mywork"><div className="btn about-btn">Let's See</div></a>
