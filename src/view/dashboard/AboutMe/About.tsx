@@ -36,10 +36,20 @@ export function AboutMe() {
 
           </div></a>
 
-          <div className="text d-flex justify-content-start">
-          <p data-aos="zoom-in-right" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
-          I'm a passionate <span>UI/UX designer & web developer</span>, blending creativity and functionality to craft engaging digital experiences. With a keen eye for detail, I strive to design user-centric interfaces that resonate. My proficiency in web development allows me to bring these designs to life, ensuring seamless and impactful results. Let's create something exceptional together.
-               </p>
+          <div className="text   ">
+          
+          <p data-aos="zoom-in-up" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
+      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true"></i>I'm <span>Jegadeesan</span>, an <span> (MCA) Master of Computer Applications  </span>graduate with a passion for all things tech
+      </p>
+          <p data-aos="zoom-in-up" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
+      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true"></i>
+          
+          i'm passionate <span>UI/UX designer & web developer</span>, creating user-centric interfaces with a blend of creativity and functionality. 
+          Let's craft something exceptional together </p>
+              
+          <p data-aos="zoom-in-up" data-aos-duration="2500"className="text-start  lh-lg   text-lg-start text-md-start  text-center">
+      <i className="fa fa-hand-o-right text-info mx-2" aria-hidden="true" />My annual <span>CTC is 3,00,000</span> . I'm excited about my compensation package
+      </p>
           </div>
           <a data-aos="zoom-in-up" data-aos-duration="3000" href="#Mywork"><div className="btn about-btn">Let's See</div></a>
         </div>
