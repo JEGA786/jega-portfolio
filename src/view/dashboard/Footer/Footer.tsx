@@ -27,12 +27,12 @@ export function Footer(){
 <div data-aos="fade-up"
      data-aos-duration="2500" className="  Footer-menu d-flex justify-content-center">
     <ul className="text-center col-10 d-flex justify-content-center">
-        <div className="col-lg-6 d-lg-flex justify-content-lg-around  justify-content-center "><li>Home</li>
-        <li className="">About Me</li>
-        <li>Skills</li></div>
-        <div className="col-lg-6 d-lg-flex justify-content-lg-around  justify-content-center  "> <li>Service</li>
-        <li>Mywork</li>
-        <li>Contact</li></div>
+        <div className="col-lg-6 d-lg-flex justify-content-lg-around  justify-content-center "><li><a href="#Homepage">Home</a></li>
+        <li className=""><a href="#AboutMe">About Me</a></li>
+        <li><a href="#Skills">Skills</a></li></div>
+        <div className="col-lg-6 d-lg-flex justify-content-lg-around  justify-content-center  "> <li><a href="#Services">Service</a></li>
+        <li><a href="#Mywork">Mywork</a></li>
+        <li><a href="#ContactUs">Contact</a></li></div>
     </ul>
 </div>
 

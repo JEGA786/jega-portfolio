@@ -43,14 +43,14 @@ export function Mywork(){
           <div className="title ">Paype</div>
           <div className="sub-line d-flex justify-content-around align-items-center">
             
-          <a href="https://www.paype.co.in/" className="text-decoration-none"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div></a>           
+          <a href="https://www.paype.co.in/" className="text-decoration-none"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div></a>           
           <a href="https://github.com/JEGA786" className="text-decoration-none"><i className="fa fa-github fs-3 btn-fill btn-info btn d-flex justify-content-center align-items-center"></i></a>            
           </div>
         </label>
         <label className="song-info  " id="song-info-2">
           <div className="title">M Pay-Off</div>
           <div className="sub-line d-flex justify-content-around align-items-center">
-          <a href="https://main.d39wylg1fvdwk7.amplifyapp.com/" className="text-decoration-none"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div></a>
+          <a href="https://main.d39wylg1fvdwk7.amplifyapp.com/" className="text-decoration-none"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div></a>
           <a href="https://github.com/JEGA786" className="text-decoration-none"><i className="fa fa-github fs-3 btn-fill btn-info btn d-flex justify-content-center align-items-center"></i></a>            
           </div>
         </label>
@@ -58,7 +58,7 @@ export function Mywork(){
           <div className="title ">Pay-GS</div>
           <div className="sub-line d-flex justify-content-around align-items-center">
             
-            <a href="https://main.deg9m21yk88ae.amplifyapp.com/" className="text-decoration-none"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div></a>
+            <a href="https://main.deg9m21yk88ae.amplifyapp.com/" className="text-decoration-none"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div></a>
             <a href="https://github.com/JEGA786" className="text-decoration-none"><i className="fa fa-github fs-3 btn-fill btn-info btn d-flex justify-content-center align-items-center"></i></a>
             
           </div>
@@ -86,7 +86,7 @@ export function Mywork(){
 
 <div  className="sub-line   d-flex col-12 justify-content-around align-items-center p-2">
  
-            <a className="text-decoration-none" href="https://play.google.com/store/apps/details?id=com.paype&hl=en_US&pli=1"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div></a>
+            <a className="text-decoration-none" href="https://play.google.com/store/apps/details?id=com.paype&hl=en_US&pli=1"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div></a>
             {/* <h5>Paype</h5> */}
            <a href="https://www.figma.com/proto/ICPSJCQNJLzh6uz4p5gq5j/PayPe-project?type=design&node-id=12-8653&t=258aP7W43dVBmoND-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1419" className="text-decoration-none"> <i className="fa fa-figma fs-3  btn-fill  btn d-flex justify-content-center align-items-center"></i></a>
             
@@ -102,7 +102,7 @@ export function Mywork(){
 <img src={require("../../../asset/ux yolly.png")} className="object-fit-cover" alt="" />
 </div>
 <div className="sub-line   d-flex col-12 justify-content-around align-items-center p-2">
-<a className="text-decoration-none" href="https://www.figma.com/proto/9AayxBkP6qDXJhUn644Igy/YOLLY-ITALY?type=design&node-id=19-149&t=QT9Hxy6MWfYAOxF4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A155"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div></a>
+<a className="text-decoration-none" href="https://www.figma.com/proto/9AayxBkP6qDXJhUn644Igy/YOLLY-ITALY?type=design&node-id=19-149&t=QT9Hxy6MWfYAOxF4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A155"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div></a>
             <a href="https://www.figma.com/proto/9AayxBkP6qDXJhUn644Igy/YOLLY-ITALY?type=design&node-id=19-149&t=QT9Hxy6MWfYAOxF4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A155" className="text-decoration-none"> <i className="fa fa-figma fs-3  btn-fill  btn d-flex justify-content-center align-items-center"></i></a>
             
           </div>
@@ -117,7 +117,7 @@ export function Mywork(){
 </div>
 
 <div className="sub-line   d-flex col-12 justify-content-around align-items-center p-2">
-            <div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div>
+            <div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div>
             <i className="fa fa-figma fs-3 btn-fill  btn  d-flex justify-content-center align-items-center"></i>
             
           </div>
@@ -132,7 +132,7 @@ export function Mywork(){
 </div>
 
 <div className="sub-line   d-flex col-12 justify-content-around align-items-center p-2">
-<a className="text-decoration-none" href="https://www.figma.com/proto/9AayxBkP6qDXJhUn644Igy/YOLLY-ITALY?type=design&node-id=19-149&t=QT9Hxy6MWfYAOxF4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A155"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div></a>
+<a className="text-decoration-none" href="https://www.figma.com/proto/9AayxBkP6qDXJhUn644Igy/YOLLY-ITALY?type=design&node-id=19-149&t=QT9Hxy6MWfYAOxF4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A155"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div></a>
             <a href="https://www.figma.com/proto/ICPSJCQNJLzh6uz4p5gq5j/PayPe-project?type=design&node-id=12-8653&t=258aP7W43dVBmoND-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1419" className="text-decoration-none"> <i className="fa fa-figma fs-3  btn-fill  btn d-flex justify-content-center align-items-center"></i></a>
             
           </div>
@@ -147,7 +147,7 @@ export function Mywork(){
 </div>
 
 <div className="sub-line   d-flex col-12 justify-content-around align-items-center p-2">
-            <div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div>
+            <div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div>
             <i className="fa fa-figma fs-3   btn-fill  btn d-flex justify-content-center align-items-center"></i>
             
           </div>
@@ -162,7 +162,7 @@ export function Mywork(){
 </div>
 
 <div className="sub-line   d-flex col-12 justify-content-around align-items-center p-2">
-<a className="text-decoration-none" href="https://www.figma.com/proto/9AayxBkP6qDXJhUn644Igy/YOLLY-ITALY?type=design&node-id=19-149&t=QT9Hxy6MWfYAOxF4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A155"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">viwe</div></a>
+<a className="text-decoration-none" href="https://www.figma.com/proto/9AayxBkP6qDXJhUn644Igy/YOLLY-ITALY?type=design&node-id=19-149&t=QT9Hxy6MWfYAOxF4-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A155"><div className="btn-outline-info btn d-flex justify-content-center align-items-center">View</div></a>
             <a href="https://www.figma.com/proto/ICPSJCQNJLzh6uz4p5gq5j/PayPe-project?type=design&node-id=12-8653&t=258aP7W43dVBmoND-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1419" className="text-decoration-none"> <i className="fa fa-figma fs-3  btn-fill  btn d-flex justify-content-center align-items-center"></i></a>
             
           </div>

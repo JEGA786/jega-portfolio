@@ -3,15 +3,21 @@
     height: 25rem;
 }
 
+ul div li a{
+    text-decoration: none !important;
+    color: rgb(29, 29, 29);
+    transition: all 0.5s ease-in-out !important;  
+}
+
 ul div li{
     list-style-type: none;
     padding : 8px 0 8px 0;  
-    transition: all 0.5s ease-in-out;  
+    
     
 }
-ul div li:hover{
+ul div li a:hover{
    color: #02BEC4; 
-   transform: scale(1.07);
+   transform: scale(1.07) !important;
 }
 .footer-img{
 
